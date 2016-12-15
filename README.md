@@ -1,4 +1,4 @@
-# Current D8 status of the top 50 Drupal modules<sup>[1](#note1)</sup>
+# Current D8 status of the top 50 Drupal 7 modules<sup>[1](#note1)</sup>
 
 |Module|D8 Status|D7 Usage<sup>[2](#note2)</sup>|D8 Usage|Notes|
 | ------ | ------ | ------ | ------ | ------ |
@@ -16,17 +16,17 @@
 |CKEditor - WYSIWYG HTML editor|Core|40%|NA||
 |Google Analytics|GA|35%|9%||
 |Link|Core|34%|NA||
+|Metatag|Beta|32%|12%||
 |Wysiwyg|Core|33%|NA||
 |Module Filter|Dev|33%|0%|Core has some functionality|
-|Metatag|Beta|32%|12%||
-|Rules|Alpha|29%|2%||
-|Entity Reference|Core|28%|NA||
-|Features|GA|29%|5%||
-|Backup and Migrate|Alpha|28%|3%||
 |Media|NA|28%|NA|Functionality split.<sup>[4](#note4)</sup>|
+|Rules|Alpha|29%|2%||
+|Features|GA|29%|5%||
+|Entity Reference|Core|28%|NA||
+|Backup and Migrate|Alpha|28%|3%||
 |XML Sitemap|Alpha|27%|2%||
-|Colorbox|GA|27%|5%||
 |Field Group|RC|26%|11%||
+|Colorbox|GA|27%|5%||
 |Views Bulk Operations (VBO)|Dev|25%|0%||
 |Views Slideshow|GA|25%|5%||
 |Transliteration|Core|26%|NA||
@@ -38,17 +38,17 @@
 |Devel|Alpha|21%|12%||
 |Context|Alpha|20%|1%||
 |Internationalization|Core|19%|NA||
-|Global Redirect|NA|18%|NA|Functionality in D8 redirect module|
 |Redirect|Alpha|18%|6%||
+|Global Redirect|NA|18%|NA|Functionality in D8 redirect module|
 |IMCE Wysiwyg bridge|NA|16%|NA|Not relevant in D8|
-|Strongarm|NA|16%|NA|Not relevant in D8|
 |Field collection|Alpha|16%|5%||
+|Strongarm|NA|16%|NA|Not relevant in D8|
 |File Entity (fieldable files)|Beta|15%|2%|Other options in D8|
 |Display Suite|GA|15%|6%||
 |Menu attributes|Dev|15%|0%||
 |Block Class|Alpha|15%|2%||
-|Email Field|Core|14%|NA||
 |Superfish|RC|14%|3%||
+|Email Field|Core|14%|NA||
 |Address Field|RC|14%|3%|Functionality in D8 address module|
 |References|Core|12%|NA||
 |Job Scheduler|Dev|13%|0%||
